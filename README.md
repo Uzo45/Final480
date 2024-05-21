@@ -11,6 +11,7 @@ in terminal: cd Final480
 
 How to run my code
 
+in terminal: git branch Uzo
 in terminal: cd frontend
 in terminal: npm install react axios
 in terminal: npm start //runs the frontend
